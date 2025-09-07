@@ -1,4 +1,4 @@
-# 3SIPS - AI Managed Investment
+# 3SIPS - Autonomous Defi Yield Engine
 *Autonomous Cross-Chain Investment Platform powered by AI*
 
 ![WhatsApp Image 2025-06-30 at 07 58 49_5f28c617](https://github.com/user-attachments/assets/66d568cc-8b90-4895-a4fb-221280ae9650)
